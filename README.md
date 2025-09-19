@@ -21,7 +21,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 # PROGRAM:
-```http.server import HTTPServer,BaseHTTPRequestHandler
+```from http.server import HTTPServer,BaseHTTPRequestHandler
 content ='''<!DOCTYPE html>
 <html lang="en">
 <head>from
